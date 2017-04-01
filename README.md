@@ -151,8 +151,8 @@ The source code is kept to  minimum number of modules and is structured as follo
 
  The Client and the server are implemented with a modular architecture based on modules which provide an API for cryptographic schemes and protocols from the modules: RSA module, AES module, Digest module.
 
-[Cryptogrqaphy Library] (https://cryptography.io/en/latest/)
-[PyCrypto Library] (https://www.dlitz.net/software/pycrypto/)
+*Cryptogrqaphy Library https://cryptography.io/en/latest/
+*PyCrypto Library https://www.dlitz.net/software/pycrypto/
 
 ## 7.	Usage Example
 First start the server then. Then start a client(s)
